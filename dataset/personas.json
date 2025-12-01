@@ -1,0 +1,1066 @@
+{
+  "mahmoodikhanegi": [
+  {
+    "label": "Newlywed Trousseau Buyer",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "nationwide Iran"
+    },
+    "psychographics": {
+      "values": ["family support", "brand reputation (LG/Samsung)", "trust, warranty and after-sales"],
+      "motivations": ["one-stop جهیزیه bundles", "nationwide delivery with in-home test", "deposit-based ordering and settling on delivery when offered"],
+      "lifestyle": ["family-oriented", "uses phone/Telegram consultation", "time-conscious during wedding prep"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": false,
+      "purchase": true,
+      "typical_actions": ["orders multi-item sets (fridge, washer, dishwasher, TV)", "pays بیعانه to lock order", "checks 'واریزی/رضایت' posts for assurance", "chooses LG/Samsung mixes based on availability", "accepts اشانتیون when offered"]
+    },
+    "confidence": 85
+  },
+  {
+    "label": "Budget-Conscious Home Upgrader",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "nationwide Iran"
+    },
+    "psychographics": {
+      "values": ["value for money", "timing with exchange rate", "clear functional specs"],
+      "motivations": ["capitalize on price dips and 'قیمت طلایی'", "replace/upgrade to 2024/2025 models"],
+      "lifestyle": ["monitors channel’s دلار updates", "compares T1 vs T3, inverter, energy ratings"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true,
+      "typical_actions": ["waits for posts about دلار downtrends or 'رسیدن بار جدید'", "buys single high-ticket items (fridge, washer, dishwasher, TV)", "requests price re-quotes tied to USD"]
+    },
+    "confidence": 75
+  },
+  {
+    "label": "Seasonal AC Buyer",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "nationwide Iran"
+    },
+    "psychographics": {
+      "values": ["home comfort", "quick service", "technical reliability"],
+      "motivations": ["urgent cooling needs in warmer months", "seeking heavy-duty T3 options and practical specs (R410/R32, Golden Fin, 4-way)", "fast delivery and installation/test on site"],
+      "lifestyle": ["responds to seasonal availability", "asks about sizing (12K–36K BTU) and motor types (T1/T3)"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true,
+      "typical_actions": ["orders split/portable ACs from General Shkar/Gold/Berlin, Gree, LG, Hisense", "chooses T3 for larger areas", "pays بیعانه, schedules installation/test"]
+    },
+    "confidence": 70
+  },
+  {
+    "label": "Real Estate Developer/Contractor (B2B AC Sourcing)",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "nationwide Iran"
+    },
+    "psychographics": {
+      "values": ["scalability", "meeting project timelines", "after-sales support"],
+      "motivations": ["bulk procurement for residential/other projects", "reliable technicians and quick turnaround", "consistent warranty/service coverage"],
+      "lifestyle": ["project-driven and deadline-focused", "balances cost and performance across brands"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": true,
+      "purchase": true,
+      "typical_actions": ["calls for bulk quotes on multiple AC units", "mixes brands (LG, Gree, General lines) by spec and budget", "coordinates delivery/installation teams", "requests pricing aligned to USD movements"]
+    },
+    "confidence": 60
+  },
+  {
+    "label": "First-Home Setter",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "nationwide Iran"
+    },
+    "psychographics": {
+      "values": ["convenience", "brand-recognized essentials", "payment flexibility"],
+      "motivations": ["complete kitchen/laundry in one order", "delivery and testing at home", "deposit + pay on delivery workflow"],
+      "lifestyle": ["active on Telegram for consultation", "trusts social proof posts"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true,
+      "typical_actions": ["orders fridge+washer+dishwasher (often LG)", "asks about warranty terms (e.g., 2-year + 5-year service)", "locks price with بیعانه when دلار fluctuates"]
+    },
+    "confidence": 75
+  },
+  {
+    "label": "TV and Home Entertainment Enthusiast",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "nationwide Iran"
+    },
+    "psychographics": {
+      "values": ["latest tech", "picture quality", "gaming-friendly features"],
+      "motivations": ["2024 models (Samsung DU7000/DU8000/Q70D, LG UT80006/NANO/QNED)", "size upgrades (55–75 inch)"],
+      "lifestyle": ["compares specs (HDR10/HLG, 60/120 Hz, WebOS/Tizen)", "engages with product videos and detailed spec posts"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true,
+      "typical_actions": ["interacts with UT80006/DU7000/Q70D posts", "asks about OS, HDR, refresh rate, origin", "places بیعانه and buys when price fits USD rate"]
+    },
+    "confidence": 65
+  },
+  {
+    "label": "Small Appliance Deal Hunter",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "nationwide Iran"
+    },
+    "psychographics": {
+      "values": ["kitchen convenience", "promotions and deals", "warranty support"],
+      "motivations": ["air fryers, choppers, tea makers, food processors on deal", "giftable items for home/جهیزیه"],
+      "lifestyle": ["monitors promo posts", "may share offers with family/friends"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true,
+      "typical_actions": ["orders Berlin/AEG/Bosch small appliances", "checks 'گارانتی' and free shipping", "uses deposit for reservation and quick dispatch"]
+    },
+    "confidence": 60
+  },
+  {
+    "label": "Brand-Loyal Premium Buyer (LG/Samsung/Bosch)",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "nationwide Iran"
+    },
+    "psychographics": {
+      "values": ["authenticity and origin clarity", "quietness/efficiency", "after-sales support"],
+      "motivations": ["seeks 'اصل کره' or clearly stated origins/assembly (Turkey/Egypt/Indonesia/China)", "prefers Bosch Series 4/6, LG 425/512, Samsung RR35/RZ28"],
+      "lifestyle": ["research-heavy, model-number oriented", "asks for year/model and assembly country"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true,
+      "typical_actions": ["requests detailed model specs before purchase", "chooses items with explicit warranty/service", "accepts higher price for known brands/origins"]
+    },
+    "confidence": 55
+  },
+  {
+    "label": "Remote City Shopper Using Delivery",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "nationwide Iran (including smaller cities)"
+    },
+    "psychographics": {
+      "values": ["access to variety", "delivery assurance", "trust via social proof"],
+      "motivations": ["limited local options; wants big-brand models delivered", "testing at door and deposit-friendly terms"],
+      "lifestyle": ["relies on Telegram commerce", "uses phone/Telegram for coordination"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true,
+      "typical_actions": ["orders twin/side-by-side fridges, washers, TVs", "schedules delivery and in-home test", "checks 'واریزی/بیعانه' and رضایت posts before ordering"]
+    },
+    "confidence": 70
+  },
+  {
+    "label": "Exchange-Rate Opportunistic Buyer",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "nationwide Iran"
+    },
+    "psychographics": {
+      "values": ["timing", "deal optimization", "information-driven buying"],
+      "motivations": ["buys when دلار drops and avoids post-rise regret", "reacts to urgent 'قیمت با دلار روز' and 'حراج' posts"],
+      "lifestyle": ["monitors currency alerts and availability notes", "decides quickly when stock lands or rates fall"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true,
+      "typical_actions": ["requests updated quotes tied to USD", "places بیعانه promptly to lock price", "tracks posts announcing rate movements"]
+    },
+    "confidence": 65
+  }
+]
+    ,
+  "LBASs2": [
+  {
+    "label": "Price‑Sensitive Trend Seeker",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "male",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["low price", "discounts", "brand-inspired looks", "COD convenience"],
+      "motivations": ["grab deals on tees/shoes/sets", "refresh casual wardrobe affordably", "use pay on delivery to reduce risk"],
+      "lifestyle": ["shops via Telegram bots/links", "wears casual/athleisure daily"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 72
+  },
+  {
+    "label": "Casual Athlete and Gym-Goer",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "male",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["comfort", "sporty aesthetics", "value for money"],
+      "motivations": ["buy workout/casual sets (Nike/Adidas/Jordan inspired)", "prefer quick nationwide shipping", "pay on delivery"],
+      "lifestyle": ["uses activewear daily", "gym or sports-influenced outfits"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 70
+  },
+  {
+    "label": "Football Club Superfan (Esteghlal/Persepolis)",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "male",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["team identity", "affordable merch", "deal value"],
+      "motivations": ["own club fan sets and wear on match days", "take advantage of promotions", "use COD for convenience"],
+      "lifestyle": ["follows local clubs", "wears fan sets casually and for games"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 65
+  },
+  {
+    "label": "Budget Office Basics Shopper",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "male",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["practicality", "durability", "best price"],
+      "motivations": ["replace or add formal shoes/shirts at low cost", "prefer COD and short exchange window", "nationwide delivery"],
+      "lifestyle": ["mix of smart-casual and office wear", "time-efficient online buying"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 60
+  },
+  {
+    "label": "Plus‑Size Comfort Seeker",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "male",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["fit availability", "comfort", "simple ordering"],
+      "motivations": ["find XXL–4XL tees and sets", "choose boxy/oversized fits", "use short exchange guarantees"],
+      "lifestyle": ["casual daily wear", "deal- and fit-oriented shopping"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 60
+  },
+  {
+    "label": "Deal‑Oriented Value Shopper",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "male",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["lowest price", "trust signals (COD, exchange)", "accessibility"],
+      "motivations": ["capitalize on frequent discounts", "order via bots/shortlinks/SMS", "use nationwide shipping"],
+      "lifestyle": ["practical shopper", "compares options across multiple links"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 58
+  },
+  {
+    "label": "Gadget‑Curious Buyer",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["tech features", "value-for-money accessories", "convenience"],
+      "motivations": ["buy earbuds/ANC headsets/smartwatches on sale", "add gadgets alongside apparel orders", "prefer COD and short exchange"],
+      "lifestyle": ["digital media use", "mixes tech accessories with casual style"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 55
+  },
+  {
+    "label": "Pilgrimage/Outdoor Practical Buyer",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["functionality", "affordability", "reliability"],
+      "motivations": ["buy Arbaeen backpacks and comfortable sandals/shoes", "use COD before trips", "seek quick delivery"],
+      "lifestyle": ["seasonal religious travel or long walks", "utility-first purchases"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 55
+  },
+  {
+    "label": "Practical Health Device Buyer",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["health monitoring", "trust signals", "value"],
+      "motivations": ["purchase home blood pressure monitor on promotion", "prefer COD and short exchange", "combine with other practical buys"],
+      "lifestyle": ["practical home-use shopper", "limited time for offline shopping"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 51
+  },
+  {
+    "label": "Streetwear‑Lean Casual Trend Follower",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "male",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["current trends", "oversized fits", "brand-inspired graphics"],
+      "motivations": ["buy boxy/oversize tees and baggy pants", "pick seasonal sets (summer tops/shorts)", "shop frequent promos"],
+      "lifestyle": ["social media style cues", "mix & match casual streetwear"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 62
+  }
+]  
+  ,
+  "lbasTak2": [
+  {
+    "label": "Budget‑savvy Iranian Mom of Primary Schoolers",
+    "demographics": {
+      "age_range": "25-45",
+      "gender": "female",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["value for money", "practicality", "reliable sizing"],
+      "motivations": ["find economical kids’ sets", "use clear size charts", "receive stated shipping timelines (ارسال فوری or date)"],
+      "lifestyle": ["busy parent", "shops via Telegram", "tracks order and delivery updates"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 90
+  },
+  {
+    "label": "Trend‑driven Teen Girl (Lesh/Kuromi/LV)",
+    "demographics": {
+      "age_range": "12-16",
+      "gender": "female",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["fashion trends", "brand‑inspired looks", "peer approval"],
+      "motivations": ["pick کراپ/لش و نگین‌کاری ست‌ها", "choose prints like Kuromi, LV, BALENCIAGA"],
+      "lifestyle": ["trend‑sensitive for school and outings", "may browse and coordinate purchases with a parent"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 70
+  },
+  {
+    "label": "Football‑fan Kid Household (Real Madrid sets)",
+    "demographics": {
+      "age_range": "parent 28-45; child 7-14",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["team identity", "sporty style", "comfort"],
+      "motivations": ["buy رئال مادرید (وینی 9) ست‌ها", "choose پنبه لاکرا برای پوشیدن روزمره"],
+      "lifestyle": ["school and sports activities", "prefers durable, easy‑wash sets"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 75
+  },
+  {
+    "label": "Religious Family Muharram Outfit Planner",
+    "demographics": {
+      "age_range": "parent 25-45; kids 2-16",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["cultural/religious observance", "modesty", "assured print quality"],
+      "motivations": ["buy black محرم items (رفیقم حسین، تیشرت/ست‌های محرمی)", "coordinate modest looks for siblings"],
+      "lifestyle": ["shops ahead of Muharram", "uses چارت سایز and چاپ زول assurances"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 85
+  },
+  {
+    "label": "Back‑to‑School Planning Mom (Bags & Accessories)",
+    "demographics": {
+      "age_range": "25-45",
+      "gender": "female",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["planning ahead", "bundled value", "functionality"],
+      "motivations": ["order 4‑تکه کوله+جامدادی با ارسال‌های زمان‌بندی شده", "consider dimensions and capacity (مثلا 30×40)"],
+      "lifestyle": ["tracks promised ship windows (7–10 روز، 15 شهریور)", "coordinates full school kits for kids"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 85
+  },
+  {
+    "label": "Small Telegram Reseller/Boutique Owner",
+    "demographics": {
+      "age_range": "23-40",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["margin and turnover", "trend responsiveness", "supply reliability"],
+      "motivations": ["use قیمت همکاری/تیراژ بالا", "source اقتصادی و ترندهای پرتقاضا (Minecraft، برندنما)"],
+      "lifestyle": ["runs micro‑shop on Telegram", "coordinates orders via @PostibanTak and tracking link"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 80
+  },
+  {
+    "label": "Aunt/Uncle Gift‑Giver for Birthdays",
+    "demographics": {
+      "age_range": "20-35",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["cute aesthetics", "memorable gifts", "safe sizing"],
+      "motivations": ["buy سارافن‌ها، پیراهن‌ها، ست‌های مجلسی یا ست کوله برای هدیه", "use size charts to choose correct size"],
+      "lifestyle": ["occasional shopper for events", "looks for timely delivery before occasions"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 60
+  },
+  {
+    "label": "Gaming/Cartoon‑Theme Parent (Economical Prints)",
+    "demographics": {
+      "age_range": "25-45",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["kid happiness", "budget deals", "on‑trend graphics"],
+      "motivations": ["choose ست‌های اقتصادی ماینکرافت/خرسی/مردعنکبوتی", "prefer بشور‑بپوش practicality"],
+      "lifestyle": ["shops during اقتصادی drops", "prefers fast ship options if available"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 75
+  },
+  {
+    "label": "Parent Relying on Nationwide Shipping",
+    "demographics": {
+      "age_range": "25-45",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["delivery reach", "clarity on sizing", "reliability"],
+      "motivations": ["order فصل‌به‌فصل items using nationwide shipping", "use exact size charts to minimize issues"],
+      "lifestyle": ["Telegram‑first shopping", "tracks promised ارسال dates in posts"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 60
+  },
+  {
+    "label": "Modest/Quasi‑Adult Sizing Teen Girl",
+    "demographics": {
+      "age_range": "14-18",
+      "gender": "female",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["modesty plus style", "oversized/لش comfort", "fit availability up to larger teen sizes"],
+      "motivations": ["buy شومیزهای قواره‌دار و تونیک‌های مشکی/محرمی", "choose teen sets up to سایز 70-75"],
+      "lifestyle": ["mixes modest tops with trendy pants", "checks detailed measurements"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 65
+  },
+  {
+    "label": "Parent Cautious About Turkish Sizing",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["fit accuracy", "comfort fabrics", "risk avoidance"],
+      "motivations": ["buy سایز تُرک items carefully when تعویض نداریم", "follow notes like ‘۵۵ ترک میشه ۴۰ ایرانی’"],
+      "lifestyle": ["reads care notes and error margins", "selects soft, breathable fabrics (پنبه، ملانژ)"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 65
+  },
+  {
+    "label": "Sibling‑Stylist Mom (Matching Looks)",
+    "demographics": {
+      "age_range": "27-42",
+      "gender": "female",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["coordination", "photo‑ready outfits", "seasonal planning"],
+      "motivations": ["خرید ست‌های خواهر‑برادری و ست‌های محرمی/مدرسه", "shop one‑stop for multiple kids with clear size charts"],
+      "lifestyle": ["plans outfits for events and seasons", "looks for اقتصادی options to cover multiple kids"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 70
+  }
+]
+  ,
+  "nemo_shopir": [
+  {
+    "label": "Cosplay Uniform Fan",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran-wide"
+    },
+    "psychographics": {
+      "values": ["self-expression", "fandom identity", "aesthetic looks"],
+      "motivations": ["buy Japanese-style school uniforms, Sailor Moon items, kimonos/yukata", "use posted size tables before ordering", "watch discounts and promos"],
+      "lifestyle": ["follows channel product drops", "accepts 6–9 week import timelines for cosplay pieces"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 60
+  },
+  {
+    "label": "University Otaku Collector",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran-wide"
+    },
+    "psychographics": {
+      "values": ["collecting complete sets", "authentic/original items", "deal hunting"],
+      "motivations": ["buy action figures (Attack on Titan, Tokyo Ghoul, Naruto, One Piece)", "use seasonal promos (e.g., 11.11) and price drops", "accept long import lead times; use installments when offered"],
+      "lifestyle": ["tracks shipments via Iran Post link", "checks trust posts and customer photos before ordering"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 72
+  },
+  {
+    "label": "Bilingual Manga Completionist",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran-wide"
+    },
+    "psychographics": {
+      "values": ["story continuity", "collection completeness"],
+      "motivations": ["order multi-volume sets in Persian or English (e.g., Naruto, Tokyo Ghoul, Haikyuu, Death Note)", "read specs/summaries and translation status before buying"],
+      "lifestyle": ["builds shelf collections", "shares or forwards title posts when deciding what to buy"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 75
+  },
+  {
+    "label": "Cosplay Planner",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran-wide"
+    },
+    "psychographics": {
+      "values": ["accuracy in outfits", "planning and fit"],
+      "motivations": ["buy wigs, uniforms, props, and kimonos", "plan around 6–9 week imports for events", "combine imported cosplay with fast local custom-printed pieces"],
+      "lifestyle": ["checks size charts and details in posts", "occasionally sends received-item photos"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 62
+  },
+  {
+    "label": "Custom-Print Gift Shopper",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran-wide"
+    },
+    "psychographics": {
+      "values": ["personalization", "quick fulfillment", "affordability"],
+      "motivations": ["order mugs, phone cases, cushions, posters, t-shirts with custom images", "need 2–4 day turnaround for occasions", "use online payment gateway or card-to-card as provided"],
+      "lifestyle": ["occasion-driven buyer", "contacts admin via Telegram for quotes and sizing"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 78
+  },
+  {
+    "label": "Budget Accessory Hunter",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran-wide"
+    },
+    "psychographics": {
+      "values": ["small affordable merch", "freebies/اشانتیون", "trendiness"],
+      "motivations": ["buy rings, necklaces, keychains, stickers, masks, eye masks", "monitor promo pricing and bundles", "accept 6–9 week shipping for low-cost items"],
+      "lifestyle": ["follows channel updates and promotions", "shows interest in ready-stock posts for faster delivery when available"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 67
+  },
+  {
+    "label": "Aspiring Manga Artist",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran-wide"
+    },
+    "psychographics": {
+      "values": ["craft and technique", "quality tools"],
+      "motivations": ["buy marker/pen sets and drawing supplies shown in posts", "compare color counts and set contents", "occasionally purchase related learning materials"],
+      "lifestyle": ["uses tool sets for manga-style drawing", "watches for restocks and set discounts"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 60
+  },
+  {
+    "label": "Offline Anime Watcher",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran-wide"
+    },
+    "psychographics": {
+      "values": ["complete series ownership", "tech specs/subtitles", "reliability of delivery"],
+      "motivations": ["buy DVD sets with listed codecs/quality and included OVAs/movies", "prefer releases with Persian subtitles where offered", "follow tracking links and trust posts"],
+      "lifestyle": ["collects physical media", "reads detailed listings before purchase"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": false,
+      "purchase": true
+    },
+    "confidence": 56
+  },
+  {
+    "label": "K-fashion & Anime Aesthetic Fan",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran-wide"
+    },
+    "psychographics": {
+      "values": ["aesthetic outfits", "trend alignment"],
+      "motivations": ["buy hoodies/sweatshirts, 3D tops, and related fashion items", "follow sister K-fashion posts when promoted", "order custom prints to match looks"],
+      "lifestyle": ["mixes anime-themed apparel with fashion pieces", "responds to seasonal promos and discount events"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 55
+  }
+]
+    ,
+  "bargiTak":  [
+  {
+    "label": "Deal‑Seeking Men’s Grooming Fan",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "male",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["neat appearance", "saving money", "reliability"],
+      "motivations": ["buy discounted clippers/shavers (VGR/GEEMY/Kemei/Moser)", "cash on delivery safety", "quick replacement window (about 48–72 hours)"],
+      "lifestyle": ["does home haircuts/shaving", "compares specs and prices across posts/links", "orders via SMS/DM/bots or linked sites"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 80
+  },
+  {
+    "label": "DIY Beauty & Self‑Care Shopper",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["self-care at home", "convenience", "value for money"],
+      "motivations": ["find salon‑alternative tools (microderm, facial cleansers, massagers, straighteners, dryers)", "use COD and short replacement", "nationwide delivery in ~4–6 business days"],
+      "lifestyle": ["tries beauty/personal care gadgets", "asks questions via DM/comments", "uses Rubika mirrors when Telegram is filtered"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 70
+  },
+  {
+    "label": "Practical Car Owner",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["vehicle upkeep", "readiness", "value"],
+      "motivations": ["keep car clean/functional with 12V tools (compressors, vacuums)", "use COD and easy returns", "avoid repair shop visits for simple tasks"],
+      "lifestyle": ["drives regularly", "keeps car accessories (air fresheners, holders, lights)", "shares useful auto deals with peers"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 75
+  },
+  {
+    "label": "Small‑Space Gadget Seeker",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["compact/portable gear", "multi‑functionality", "budget buys"],
+      "motivations": ["equip home with mini vacuums, desk/neck fans, humidifiers/face misters, sealers", "prefer COD and fast replacement", "act on frequent discounts"],
+      "lifestyle": ["heavy mobile/online use", "orders via bots/SMS/quick‑buy links", "forwards handy gadget deals to friends/roommates"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 60
+  },
+  {
+    "label": "Budget Traveler/Camper",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["portability", "readiness", "value"],
+      "motivations": ["buy compact travel gear (flashlights, travel irons, mini pumps, portable speakers)", "use USB/12V friendly devices", "COD and 4–6 day delivery before trips"],
+      "lifestyle": ["frequent short trips/camping", "keeps multi‑use lights and tools", "shares travel‑useful offers with group"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 60
+  },
+  {
+    "label": "Home DIY Tinkerer",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["self‑reliance", "tool quality on a budget"],
+      "motivations": ["own basic tools at good prices (drills, sealers, compressors, multi‑tools)", "prefer COD and short replacement window", "act on discount posts"],
+      "lifestyle": ["keeps a compact toolkit", "compares specs and forwards deals", "shops across linked partner storefronts"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 65
+  },
+  {
+    "label": "Occasion Gift Planner",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["thoughtful gifting", "personalization", "timely delivery"],
+      "motivations": ["buy unique gifts (personalized photo rugs, watches, speakers)", "use seasonal promos (e.g., Valentine offers)", "COD and quick issue resolution"],
+      "lifestyle": ["tracks promos across Tak channels", "coordinates orders via phone/WhatsApp/DM", "shares links with family"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 55
+  },
+  {
+    "label": "Home Bargain‑Seeker",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["deals", "trusted seller policies", "convenience"],
+      "motivations": ["shop household gadgets/cleaners/kitchen helpers on discount", "prefer COD and option to exchange", "use Rubika/alternative mirrors when needed"],
+      "lifestyle": ["compares across Tak partner channels", "engages via comments/DM", "orders through SMS/bots/site links"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 60
+  },
+  {
+    "label": "Family Health & Comfort Caregiver",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["family wellbeing", "practical health gadgets", "comfort"],
+      "motivations": ["monitor or improve comfort (BP monitor, massagers, foot files, eye massagers)", "COD and short replacement if needed", "nationwide delivery"],
+      "lifestyle": ["shops for household members", "saves/compares warranty mentions", "shares useful health‑oriented deals"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 55
+  },
+  {
+    "label": "Budget Salon/Barber Starter",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["affordable pro tools", "reliability"],
+      "motivations": ["equip salon/barbershop with discounted clippers/dryers labeled مناسب برای آرایشگاه و منزل", "prefer items with noted 12‑month warranty when available", "COD and quick replacement"],
+      "lifestyle": ["semi‑pro/pro user watching deals", "shares offers with colleagues", "may order multiples when price is right"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": true,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 52
+  },
+  {
+    "label": "COD‑First Buyer",
+    "demographics": {
+      "age_range": "not specified",
+      "gender": "not specified",
+      "location": "Iran"
+    },
+    "psychographics": {
+      "values": ["risk avoidance", "accessibility", "value"],
+      "motivations": ["use COD instead of prepay", "order via SMS codes, DM, bots, or linked stores", "rely on 48–72h replacement promises"],
+      "lifestyle": ["uses Rubika mirrors during filtering", "notes 4–6 day delivery timing", "shares SMS/ordering instructions with family"]
+    },
+    "shopping_behavior": {
+      "browse": true,
+      "react": false,
+      "forward": true,
+      "purchase": true
+    },
+    "confidence": 55
+  }
+]
+}
